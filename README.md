@@ -309,5 +309,4 @@ GitHub: https://github.com/<your-username>
 
 If you found this project useful, consider giving it a star. It helps others discover the project and motivates future development.
 =======
-# WebRecon-Console
->>>>>>> c3abd3737bc12723d5dbf46d1b48882aa48e0d61
+
