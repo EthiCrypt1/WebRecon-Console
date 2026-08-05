@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebRecon Console
 
 A lightweight JavaScript-based reconnaissance tool that runs directly in the browser console to help penetration testers, bug bounty hunters, and application security engineers collect application endpoints, API requests, parameters, and client-side security information during web application assessments.
@@ -307,3 +308,6 @@ GitHub: https://github.com/<your-username>
 ## Star the Repository ⭐
 
 If you found this project useful, consider giving it a star. It helps others discover the project and motivates future development.
+=======
+# WebRecon-Console
+>>>>>>> c3abd3737bc12723d5dbf46d1b48882aa48e0d61
